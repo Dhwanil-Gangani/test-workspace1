@@ -1,8 +1,6 @@
 # :trident: Integration of AWS RDS and WordPress app running on EC2 Instance :trident:
 
-<p align="center">
 ![wordpress-rds-ec2](https://user-images.githubusercontent.com/78288350/116659353-1a448080-a9af-11eb-8e52-2bd4230e63c8.jpg)
-</p>
 
 ###### :dart: In this article we are going to deploy "WordPress" which is a free and open-source content management system written in PHP on top of AWS EC2 Instance!
 
@@ -23,5 +21,6 @@
 ###### :white_check_mark: Provide the endpoint/connection string to the WordPress application to make it work. 
 
 
-
+> “Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is most important.”
+> ~ by Bill Gates
 
