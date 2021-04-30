@@ -20,8 +20,14 @@
 
 ###### :white_check_mark: Provide the endpoint/connection string to the WordPress application to make it work. 
 
-> “Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is most important.”
+###### > “Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is most important.”
 
-> ~ by Bill Gates
+###### > ~ by Bill Gates
+
+:boom: So let's start walking through this Task & Complete it!
+
+## :beginner: Step 1 👉 Create an AWS EC2 instance
+
+
 
 
