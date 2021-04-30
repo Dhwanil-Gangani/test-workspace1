@@ -22,7 +22,7 @@
 
 ###### > “Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is most important.”
 
-###### > ~ by Bill Gates
+> ~ by Bill Gates
 
 :boom: So let's start walking through this Task & Complete it!
 
@@ -30,7 +30,7 @@
 
 ###### 🔅 We need to launch an EC2 Instance on AWS which we will use to configure Apache Webserver and run WordPress.
 
-:dart: Let’s quickly launch the instance :
+###### :dart: Let’s quickly launch the instance :
 
 
 
