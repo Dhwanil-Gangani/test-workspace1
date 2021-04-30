@@ -22,7 +22,7 @@
 
 ###### > “Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is most important.”
 
-> ~ by Bill Gates
+###### > ~ by Bill Gates
 
 :boom: So let's start walking through this Task & Complete it!
 
