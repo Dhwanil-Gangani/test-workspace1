@@ -1,6 +1,7 @@
 # :trident: Integration of AWS RDS and WordPress app running on EC2 Instance :trident:
 
-![OIP](https://user-images.githubusercontent.com/78288350/116659214-dcdff300-a9ae-11eb-8f70-b5c90b2b47d5.jpeg)
+![wordpress-rds-ec2](https://user-images.githubusercontent.com/78288350/116659353-1a448080-a9af-11eb-8e52-2bd4230e63c8.jpg)
+
 
 ###### :dart: In this article we are going to deploy "WordPress" which is a free and open-source content management system written in PHP on top of AWS EC2 Instance!
 
