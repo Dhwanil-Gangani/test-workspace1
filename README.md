@@ -20,11 +20,9 @@
 
 ###### :white_check_mark: Provide the endpoint/connection string to the WordPress application to make it work. 
 
-
 > ## “Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is most important.”
 
 > ## ~ by Bill Gates
-
 
 :boom: So let's start walking through this Task & Complete it!
 
@@ -33,6 +31,10 @@
 ###### 🔅 We need to launch an EC2 Instance on AWS which we will use to configure Apache Webserver and run WordPress.
 
 ###### :dart: Let’s quickly launch the instance:
+
+![1](https://user-images.githubusercontent.com/78288350/116660548-d488b780-a9b0-11eb-9a39-f95671b7283f.png)
+![2](https://user-images.githubusercontent.com/78288350/116660554-d6527b00-a9b0-11eb-9679-6411e538a39a.png)
+
 
 
 
