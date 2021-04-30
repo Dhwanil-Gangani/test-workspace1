@@ -28,6 +28,10 @@
 
 ## :beginner: Step 1 👉 Create an AWS EC2 instance
 
+###### 🔅 We need to launch an EC2 Instance on AWS which we will use to configure Apache Webserver and run WordPress.
+
+:dart: Let’s quickly launch the instance :
+
 
 
 
